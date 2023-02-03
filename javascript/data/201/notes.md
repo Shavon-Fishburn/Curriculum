@@ -11,7 +11,7 @@ const car {
 };
 ```
 ### Arrays
-An array is list of items. It is defined by opening and closing square brackets. THe items in the array are separated by commas, in each item in the array is indexed with a number. Arrays can contain all other data types as well as oblects.
+An array is list of items. It is defined by opening and closing square brackets. THe items in the array are separated by commas, in each item in the array is indexed with a number. Arrays can contain all other data types as well as objects.
 ```
 const shoppingList = ['apples', 'celery', 'bread'];
 const ages = [ 7, 7, 8, 8, 7.5];
